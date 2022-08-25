@@ -4,7 +4,7 @@ BKZ_fapzor (ported from csgo)
 
 DOWNLOAD THE .GLB file.
 
-type %appdata% then press ENTER in windows search, then go to the directory below.
+In windows search type %appdata% then press ENTER, then go to the directory below.
 
 C:\Users\YOURNAME\AppData\Roaming\OpenGOAL-Launcher\data\custom_levels\test-zone
 
